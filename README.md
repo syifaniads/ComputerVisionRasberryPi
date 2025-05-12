@@ -1,3 +1,5 @@
+# Step by step Raspberry Comvis
+
 #!/bin/bash
 # setup_vision_raspi.sh
 # Skrip untuk menyiapkan Computer Vision di Raspberry Pi
